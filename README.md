@@ -1,9 +1,9 @@
 # Hello World! 👋, I'm Adam
 
-💻 Learning programming and software development
+💻 Learning programming
 🐍 Currently learning C
 🧠 Exploring problem solving & algorithms
-🚀 Building my skills one step at a time
+🚀 Building things and learning along the way
 
 ## 💻 Tech Stack
 
