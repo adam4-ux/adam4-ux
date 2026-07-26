@@ -1,4 +1,4 @@
-# Hey, I'm Adnan 👋
+# Hey, I'm Adam 👋
 
 💻 Learning to code, one bug at a time  
 🐍 Currently learning C  
